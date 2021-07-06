@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fruit Que</string>
+    <string name="fruit_name">Fruit Name</string>
+    <string name="detail_fruit">Detail Fruit</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Abadi Arkam</string>
+    <string name="my_email">abadiarkam99.aa@gmail.com</string>
+</resources>
